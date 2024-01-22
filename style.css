@@ -1,0 +1,29 @@
+.calculator{
+    width: 300px;
+    
+    background-color: rgb(27, 180, 231);
+    padding: 30px;
+
+}
+h1{
+    color: antiquewhite;
+}
+.display{
+    width: 70%;
+    padding: 20px;
+    margin-bottom: 10px;
+    font-size: 40px;
+}
+.btn{
+    border-radius: 50%;
+    padding: 20px;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.align_cal{
+    display: flex;
+    justify-content: center;
+}
+.btn:hover{
+    color:orange;
+}
